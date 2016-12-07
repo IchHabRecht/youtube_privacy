@@ -1,0 +1,26 @@
+{
+  "name": "ichhabrecht/youtube",
+  "type": "typo3-cms-extension",
+  "description": "Render youtube videos with nocookie domain",
+  "keywords": [
+    "TYPO3",
+    "youtube",
+    "cookie"
+  ],
+  "homepage": "https://github.com/IchHabRecht/TYPO3-youtube",
+  "authors": [
+    {
+      "name": "Nicole Cordes",
+      "email": "typo3@cordes.co",
+      "role": "Developer"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "require": {
+    "typo3/cms": ">=7.6.0,<8.5.0"
+  },
+  "replace": {
+    "youtube": "self.version",
+    "typo3-ter/youtube": "self.version"
+  }
+}
