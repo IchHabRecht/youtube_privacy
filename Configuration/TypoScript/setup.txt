@@ -1,0 +1,5 @@
+lib.fluidContent {
+    partialRootPaths {
+        99 = EXT:youtube/Resources/Private/Partials/
+    }
+}
