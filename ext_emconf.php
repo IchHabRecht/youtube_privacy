@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "youtube".
  *
- * Auto generated 07-12-2016 23:33
+ * Auto generated 07-12-2016 23:42
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -35,6 +35,6 @@ $EM_CONF[$_EXTKEY] = array (
   'clearCacheOnLoad' => 0,
   'createDirs' => '',
   'uploadfolder' => 0,
-  '_md5_values_when_last_written' => 'a:1:{s:12:"ext_icon.png";s:4:"66e8";}',
+  '_md5_values_when_last_written' => 'a:7:{s:9:"ChangeLog";s:4:"b4f2";s:13:"composer.json";s:4:"0b07";s:12:"ext_icon.png";s:4:"66e8";s:44:"Configuration/TCA/Overrides/sys_template.php";s:4:"907b";s:38:"Configuration/TypoScript/constants.txt";s:4:"d41d";s:34:"Configuration/TypoScript/setup.txt";s:4:"339b";s:44:"Resources/Private/Partials/MediaGallery.html";s:4:"1d59";}',
 );
 
