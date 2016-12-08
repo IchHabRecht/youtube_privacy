@@ -11,8 +11,8 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array (
-  'title' => 'Youtube',
-  'description' => 'Render youtube videos with nocookie domain',
+  'title' => 'Youtube privacy',
+  'description' => 'Render YouTube videos with nocookie domain',
   'author' => 'Nicole Cordes',
   'author_email' => 'typo3@cordes.co',
   'author_company' => 'IchHabRecht',

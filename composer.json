@@ -1,13 +1,13 @@
 {
-  "name": "ichhabrecht/youtube",
+  "name": "ichhabrecht/youtube-privacy",
   "type": "typo3-cms-extension",
-  "description": "Render youtube videos with nocookie domain",
+  "description": "Render YouTube videos with nocookie domain",
   "keywords": [
     "TYPO3",
     "youtube",
     "cookie"
   ],
-  "homepage": "https://github.com/IchHabRecht/TYPO3-youtube",
+  "homepage": "https://github.com/IchHabRecht/TYPO3-youtube_privacy",
   "authors": [
     {
       "name": "Nicole Cordes",
@@ -20,7 +20,7 @@
     "typo3/cms": ">=7.6.0,<8.5.0"
   },
   "replace": {
-    "youtube": "self.version",
-    "typo3-ter/youtube": "self.version"
+    "youtube_privacy": "self.version",
+    "typo3-ter/youtube_privacy": "self.version"
   }
 }
