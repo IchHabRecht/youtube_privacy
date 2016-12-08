@@ -2,4 +2,8 @@ lib.fluidContent {
     partialRootPaths {
         99 = EXT:youtube_privacy/Resources/Private/Partials/
     }
+    settings.media.privacy {
+        nocookie = 1
+        rel = 0
+    }
 }
