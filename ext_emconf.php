@@ -1,9 +1,9 @@
 <?php
 
 /***************************************************************
- * Extension Manager/Repository config file for ext "youtube".
+ * Extension Manager/Repository config file for ext "youtube_privacy".
  *
- * Auto generated 08-12-2016 01:34
+ * Auto generated 08-12-2016 01:58
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -31,10 +31,10 @@ $EM_CONF[$_EXTKEY] = array (
     ),
   ),
   'state' => 'stable',
-  'version' => '1.0.1',
+  'version' => '1.0.2',
   'clearCacheOnLoad' => 0,
   'createDirs' => '',
   'uploadfolder' => 0,
-  '_md5_values_when_last_written' => 'a:8:{s:9:"ChangeLog";s:4:"2a8f";s:9:"Readme.md";s:4:"ec57";s:13:"composer.json";s:4:"0b07";s:12:"ext_icon.png";s:4:"66e8";s:44:"Configuration/TCA/Overrides/sys_template.php";s:4:"907b";s:38:"Configuration/TypoScript/constants.txt";s:4:"d41d";s:34:"Configuration/TypoScript/setup.txt";s:4:"339b";s:44:"Resources/Private/Partials/MediaGallery.html";s:4:"1d59";}',
+  '_md5_values_when_last_written' => 'a:8:{s:9:"ChangeLog";s:4:"dd68";s:9:"Readme.md";s:4:"7b49";s:13:"composer.json";s:4:"6537";s:12:"ext_icon.png";s:4:"66e8";s:44:"Configuration/TCA/Overrides/sys_template.php";s:4:"40cb";s:38:"Configuration/TypoScript/constants.txt";s:4:"d41d";s:34:"Configuration/TypoScript/setup.txt";s:4:"f082";s:44:"Resources/Private/Partials/MediaGallery.html";s:4:"1d59";}',
 );
 
