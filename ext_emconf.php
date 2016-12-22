@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "youtube_privacy".
  *
- * Auto generated 08-12-2016 21:47
+ * Auto generated 22-12-2016 08:30
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -31,10 +31,10 @@ $EM_CONF[$_EXTKEY] = array (
     ),
   ),
   'state' => 'stable',
-  'version' => '1.1.0',
+  'version' => '1.1.1',
   'clearCacheOnLoad' => 0,
   'createDirs' => '',
   'uploadfolder' => 0,
-  '_md5_values_when_last_written' => 'a:8:{s:9:"ChangeLog";s:4:"b04c";s:9:"Readme.md";s:4:"5c76";s:13:"composer.json";s:4:"6537";s:12:"ext_icon.png";s:4:"66e8";s:44:"Configuration/TCA/Overrides/sys_template.php";s:4:"40cb";s:38:"Configuration/TypoScript/constants.txt";s:4:"d41d";s:34:"Configuration/TypoScript/setup.txt";s:4:"dfde";s:44:"Resources/Private/Partials/MediaGallery.html";s:4:"08b6";}',
+  '_md5_values_when_last_written' => 'a:8:{s:9:"ChangeLog";s:4:"9233";s:9:"Readme.md";s:4:"5c76";s:13:"composer.json";s:4:"e13b";s:12:"ext_icon.png";s:4:"66e8";s:44:"Configuration/TCA/Overrides/sys_template.php";s:4:"40cb";s:38:"Configuration/TypoScript/constants.txt";s:4:"d41d";s:34:"Configuration/TypoScript/setup.txt";s:4:"dfde";s:44:"Resources/Private/Partials/MediaGallery.html";s:4:"08b6";}',
 );
 
