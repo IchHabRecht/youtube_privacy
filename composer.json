@@ -17,7 +17,7 @@
   ],
   "license": "GPL-2.0+",
   "require": {
-    "typo3/cms": ">=7.6.0,<8.5.0"
+    "typo3/cms": ">=7.6.0,<8.6.0"
   },
   "replace": {
     "youtube_privacy": "self.version",
